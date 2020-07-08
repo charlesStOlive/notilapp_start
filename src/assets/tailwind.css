@@ -1,0 +1,11 @@
+@tailwind base;
+
+@font-face {
+    font-family: Raleway;
+    font-weight: 400;
+    src: url(Raleway-Regular.ttf) format("truetype");
+  }
+
+@tailwind components;
+
+@tailwind utilities;
